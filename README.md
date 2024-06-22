@@ -9,5 +9,7 @@ On the second page, there will be a sliding list of nearby hospitals.
 
 The header will include the following sections: Home, Services, What's New Nearby, and Location of Hospitals.
 
+we can have one more option there will be a pop ups for the the area and when the user select the area it will show the nearby hospitals lists.
+
 
 
