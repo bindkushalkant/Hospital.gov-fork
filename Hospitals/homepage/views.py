@@ -9,6 +9,6 @@ from django.http import HttpResponse
 def index(request):
      return HttpResponse("Hello, ")
 def index(request):
-    return render(request, "hello/index.html")
+    return render(request, "homepage/index.html")
 
 
