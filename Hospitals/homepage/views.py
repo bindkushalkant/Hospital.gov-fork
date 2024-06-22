@@ -8,7 +8,8 @@ from django.http import HttpResponse
 
 def index(request):
      return HttpResponse("Hello, ")
-def index(request):
-    return render(request, "homepage/index.html")
 
+def index(request):
+    template = "homepage/index.html"
+    return render(request, "templates")
 
